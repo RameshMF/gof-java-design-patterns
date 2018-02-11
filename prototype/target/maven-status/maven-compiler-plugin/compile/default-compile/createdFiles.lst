@@ -1,0 +1,15 @@
+com\ramesh\gof\prototype\Beast.class
+com\ramesh\gof\prototype\OrcBeast.class
+com\ramesh\gof\prototype\Warlord.class
+com\ramesh\gof\prototype\Prototype.class
+com\ramesh\gof\prototype\ElfBeast.class
+com\ramesh\gof\prototype\ElfMage.class
+com\ramesh\gof\prototype\HeroFactoryImpl.class
+com\ramesh\gof\prototype\OrcMage.class
+com\ramesh\gof\prototype\OrcWarlord.class
+com\ramesh\gof\prototype\ElfWarlord.class
+com\ramesh\gof\prototype\HeroFactory.class
+com\ramesh\gof\prototype\example1\Sheep.class
+com\ramesh\gof\prototype\App.class
+com\ramesh\gof\prototype\example1\TestPrototype.class
+com\ramesh\gof\prototype\Mage.class

@@ -1,0 +1,28 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.ramesh.java</groupId>
+  <artifactId>gof-java-design-patterns</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>singleton</module>
+  	<module>factory-pattern</module>
+  	<module>abstract-factory</module>
+  	<module>builder</module>
+  	<module>prototype</module>
+  	<module>adapter</module>
+  	<module>bridge</module>
+  	<module>composite</module>
+  	<module>decorator</module>
+  	<module>facade</module>
+  	<module>flyweight</module>
+  	<module>proxy</module>
+  	<module>chain-of-responsibility</module>
+  	<module>command</module>
+  	<module>iterator</module>
+  	<module>observer</module>
+  	<module>state</module>
+  	<module>strategy</module>
+  	<module>template-method</module>
+  </modules>
+</project>

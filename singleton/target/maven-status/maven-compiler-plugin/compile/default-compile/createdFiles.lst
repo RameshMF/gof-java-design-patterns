@@ -1,0 +1,8 @@
+com\ramesh\gof\singleton\App.class
+com\ramesh\gof\singleton\ThreadSafeLazyLoadedIvoryTower.class
+com\ramesh\gof\singleton\InitializingOnDemandHolderIdiom$1.class
+com\ramesh\gof\singleton\IvoryTower.class
+com\ramesh\gof\singleton\EnumIvoryTower.class
+com\ramesh\gof\singleton\InitializingOnDemandHolderIdiom.class
+com\ramesh\gof\singleton\ThreadSafeDoubleCheckLocking.class
+com\ramesh\gof\singleton\InitializingOnDemandHolderIdiom$HelperHolder.class
